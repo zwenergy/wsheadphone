@@ -5,7 +5,7 @@ An open headphone adapter for the WonderSwan.
 | **Reference** | **Value**|
 |---------------|----------|
 | AUDIO1        | Vertical HDMI male connector (1.6 mm board width) |
-| CN1           | 3.5 mm headphone jack (5 pin) |
+| CN1           | 3.5 mm headphone jack (5 pin, e.g. PJ-328A0-B) |
 | U1            | BU9480f |
 | U2            | TDA1308T |
 | R1            | 10 kOhm dual potentiometer (through hole, e.g. Alps Alpine RK10J12E002L) |
@@ -15,6 +15,7 @@ An open headphone adapter for the WonderSwan.
 | C3, C5 | 22 uF capacitor (1206 SMD) |
 | C4 | 100 nF capacitor (1206 SMD) |
 | C6, C7 | 100 uF capacitor (1206 SMD) |
+| C8 | 10 uF capacitor (1206 SMD) |
 
 ## Disclaimer
 **Use the files and/or schematics to build your own headphone adapter board at your own risk**.
