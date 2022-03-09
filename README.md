@@ -21,6 +21,8 @@ An open headphone adapter for the WonderSwan.
 ## Notes
 Place the headphone connector to the very bottom of the WS connector (seen in landscape) to work properly.
 
+There is no case at the moment, anyone is welcome to create one :) .
+
 ## Disclaimer
 **Use the files and/or schematics to build your own headphone adapter board at your own risk**.
 This adapter works fine for me, but it's a simple hobby project, so there is no liability for errors in the schematics and/or board files.
