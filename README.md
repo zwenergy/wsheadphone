@@ -1,6 +1,8 @@
 # WS Headphone
 An open headphone adapter for the WonderSwan.
 
+![WS Headphone](./images/ws_headphones.png "WS Headphone")
+
 ## Parts
 | **Reference** | **Value**|
 |---------------|----------|
@@ -12,7 +14,7 @@ An open headphone adapter for the WonderSwan.
 | R2, R3, R4, R5 | 3.9 kOhm resistor (1206 SMD) |
 | R6, R7 | 10 kOhm resistor (1206 SMD) |
 | C1, C2 | 1 uF capacitor (1206 SMD) |
-| C3, C5 | 22 uF capacitor (1206 SMD) |
+| C3 | 22 uF capacitor (1206 SMD) |
 | C4 | 100 nF capacitor (1206 SMD) |
 | C6, C7 | 100 uF capacitor (1206 SMD) |
 
