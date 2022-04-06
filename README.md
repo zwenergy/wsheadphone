@@ -17,6 +17,7 @@ An open headphone adapter for the WonderSwan.
 | C3 | 22 uF capacitor (1206 SMD) ||
 | C4 | 100 nF capacitor (1206 SMD) ||
 | C6, C7 | 100 uF capacitor (1206 SMD) ||
+| C8 | 10 uF (1206 SMD) ||
 
 ## Notes
 Place the headphone connector to the very bottom of the WS connector (seen in landscape) to work properly.
