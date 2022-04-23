@@ -21,6 +21,7 @@ An open headphone adapter for the WonderSwan.
 
 ## Connector Sleeve
 In order to make the connector better fitting, I designed a sleeve for the HDMI connector which "extends" it physically to a WonderSwan EXT connector. It's 3D printable, you can find the STL here in the repo.
+
 ![Connector Sleeve](./WS_Sleeve.png "Connector Sleeve")
 
 ## Notes
